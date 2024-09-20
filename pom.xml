@@ -4,7 +4,7 @@
 	<groupId>com.danubetech</groupId>
 	<artifactId>key-formats-java</artifactId>
 	<packaging>jar</packaging>
-	<version>1.17-SNAPSHOT</version>
+	<version>1.18-RS512</version>
 	<name>key-formats-java</name>
 
 	<scm>
